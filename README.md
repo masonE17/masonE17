@@ -1,5 +1,17 @@
 ## Hi there 👋
 
+I'm Mason Erickson, an aspiring software engineer based in Atlanta.
+I design and build whatever things come to mind.
+
+My main tech stack is React/React Native, JavaScript, and Tailwind. Some of my favorite tools include Expo, Supabase, Vercel, and the classic pen and paper 😄.
+
+I have a lot of projects, but my favorite ones are pinned.
+
+**Fun Facts:**
+- I have a dog
+- Love Chicago sports
+- Hobbies: building things, video games, and gym
+
 <!--
 **masonE17/masonE17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
