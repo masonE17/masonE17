@@ -9,9 +9,9 @@ My main tech stack is React, Node.js, and Tailwind CSS Some of my favorite tools
 I have a lot of projects, but my favorite ones are pinned.
 
 **Fun Facts:**
-- I have a dog
-- Love Chicago sports
-- Hobbies: building things, video games, and gym
+- I have a dog named Myla
+- I love Chicago sports
+- Hobbies: building things, video games, gym, and hanging out with friends/family!
 
 <!--
 **masonE17/masonE17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
