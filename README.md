@@ -4,7 +4,7 @@ I'm Mason Erickson, an aspiring software engineer based in Atlanta.
 
 I design and build whatever things come to mind.
 
-My main tech stack is React, Node.js, and Tailwind CSS. Some of my favorite tools include Expo, Supabase, Vercel, and the classic pen and paper 😄.
+My main tech stack is React, Node.js, and Tailwind CSS. Some of my favorite tools include Expo, Supabase, Vercel, Vite, and the classic pen and paper 😄.
 
 I have a lot of projects, but my favorite ones are pinned.
 
