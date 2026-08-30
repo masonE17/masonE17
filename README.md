@@ -10,7 +10,7 @@ I have a lot of projects, but my favorite ones are pinned.
 
 **Fun Facts:**
 - I have a dog named Myla
-- I love Chicago sports
+- I love Chicago sports 🐻, 🐂, 🧸
 - Hobbies: building things, video games, gym, and hanging out with friends/family!
 
 <!--
