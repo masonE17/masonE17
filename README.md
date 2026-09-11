@@ -13,4 +13,4 @@ I have a lot of projects, but my favorite ones are pinned.
 **Fun Facts:**
 - I have a dog named Myla
 - I love Chicago sports 🐻, 🐂, 🧸
-- Hobbies: building things, video games, gym, and hanging out with friends/family!
+- Hobbies: building creative things, video games, gym, and hanging out with friends/family!
