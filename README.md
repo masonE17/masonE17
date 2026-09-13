@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am Mason Erickson, an aspiring software engineer based in Atlanta.
+I'm Mason Erickson, an aspiring software engineer based in Atlanta.
 
 I design and build whatever things come to mind.
 
